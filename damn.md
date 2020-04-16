@@ -1,12 +1,11 @@
-function generateMarkdown(data) {
-  return `
-  # ${data.title}
 
-  Created by ${data.name}
+  # kjhsdfkjhdfshi
+
+  Created by kjhsdfjhsdaf
 
   ## Description 
 
-  ${data.description}
+  wiuerioweur
 
   ## Table of Contents 
 
@@ -18,20 +17,20 @@ function generateMarkdown(data) {
 
   ## Installation
 
-  ${data.install}
+  ,mnXC<MCN
 
   ## Usage 
 
-  ${data.usage}
+  sidfiojsfpiouj
 
 
   ## Credits
 
-  ${data.credit}
+  isdfoidsjpsdaoij
 
   ## License
 
-  ${data.license}
+  Apache
 
   ## Badges
 
@@ -42,13 +41,10 @@ function generateMarkdown(data) {
 
   ## Contributing
 
-  ${data.contribute}
+  iojsdfdisojf
 
   ## Tests
 
-  ${data.test}
+  idsjfdsiojfds
 
-`;
-}
-
-module.exports = generateMarkdown;
+  
