@@ -1,50 +1,53 @@
+# ehaldaks
 
-  # kjhsdfkjhdfshi
-
-  Created by kjhsdfjhsdaf
-
-  ## Description 
-
-  wiuerioweur
-
-  ## Table of Contents 
-
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Credits](#credits)
-  * [License](#license)
+Created by Kire Semada
 
 
-  ## Installation
 
-  ,mnXC<MCN
+Gitub Repo Link: kasdjlklj
 
-  ## Usage 
+## Description 
 
-  sidfiojsfpiouj
+kasldj
 
+## Table of Contents 
 
-  ## Credits
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
+* [contributing](#contributing)
 
-  isdfoidsjpsdaoij
+## Installation
 
-  ## License
+ewroi
 
-  Apache
+## Usage 
 
-  ## Badges
+4938rujc
 
-  ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+## Credits
 
-  Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+iajsdf98
 
+## License
 
-  ## Contributing
+![badmath](https://img.shields.io/badge/License-ioasdjf89-blue)
 
-  iojsdfdisojf
+## Contributing
 
-  ## Tests
+ijasdf98j
 
-  idsjfdsiojfds
+## Tests
 
+isadf[
+
+## Questions
+  *User GitHub email
+
+  Email: egadames990@gmail.com
   
+  * User GitHub profile picture
+
+  ![weather dashboard demo](https://avatars.githubusercontent.com/u/32764408?)
+

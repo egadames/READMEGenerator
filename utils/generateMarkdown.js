@@ -1,54 +1,58 @@
-function generateMarkdown(data) {
-  return `
-  # ${data.title}
+function generateMarkdown(data, repoData) {
+docText = 
+`# ${data.title}
 
-  Created by ${data.name}
+Created by ${repoData[1]}
 
-  ## Description 
+Gitub Repo Link: ${data.url}
 
-  ${data.description}
+## Description 
 
-  ## Table of Contents 
+${data.description}
 
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Credits](#credits)
-  * [License](#license)
+## Table of Contents 
 
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
+* [contributing](#contributing)
 
-  ## Installation
+## Installation
 
-  ${data.install}
+${data.install}
 
-  ## Usage 
+## Usage 
 
-  ${data.usage}
+${data.usage}
 
+## Credits
 
-  ## Credits
+${data.credit}
 
-  ${data.credit}
+## License
 
-  ## License
+![badmath](https://img.shields.io/badge/License-${data.license}-blue)
 
-  ${data.license}
+## Contributing
 
-  ## Badges
+${data.contribute}
 
-  ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+## Tests
 
-  Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+${data.test}
 
+## Questions
+  *User GitHub email
 
-  ## Contributing
+  Email: ${repoData[0]}
+  
+  * User GitHub profile picture
 
-  ${data.contribute}
-
-  ## Tests
-
-  ${data.test}
+  ![weather dashboard demo](${repoData[2]})
 
 `;
+return docText;
 }
 
 module.exports = generateMarkdown;

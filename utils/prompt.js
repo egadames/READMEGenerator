@@ -1,13 +1,8 @@
 const inquirer = require("inquirer");
 
-
 function promptUser() {
     return inquirer.prompt([
-      {
-        type: "input",
-        name: "name",
-        message: "What is your name",
-      },
+
       {
         type: "input",
         name: "username",
@@ -16,7 +11,12 @@ function promptUser() {
       {
         type: "input",
         name: "title",
-        message: "What is the name of the project?"
+        message: "What is the name of the repo?"
+      },
+      {
+        type: "input",
+        name: "url",
+        message: "What is the URL of your repo",
       },
       {
         type: "input",
@@ -39,9 +39,8 @@ function promptUser() {
         message: "Please provide any contributors?"
       },
       {
-        type: "checkbox",
+        type: "input",
         name: "license",
-        choices: ["Apache", "MIT", "Creative Commons", "None"],
         message: "Please provide the license for this repository?"
       },
       {
@@ -61,4 +60,5 @@ function promptUser() {
       },
     ]);
   }
+
 module.exports = promptUser;
