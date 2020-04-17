@@ -10,13 +10,13 @@
 
 ## Table of Contents 
 
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Question](#question)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Credits](#credits)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Question](#question)
 
 ## Installation
 
@@ -44,7 +44,7 @@
 
 ## Screenshots
 
-![app screenshot](./utils/screenshot.JPG)
+![app screenshot](./utils/img/hw6.gif)
 
 ## Questions
 

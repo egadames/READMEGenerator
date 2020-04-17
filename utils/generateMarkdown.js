@@ -16,13 +16,13 @@ docText =
 
 ## Table of Contents 
 
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Question](#question)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Credits](#credits)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Question](#question)
 
 ## Installation
 
