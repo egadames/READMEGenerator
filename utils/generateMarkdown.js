@@ -1,14 +1,18 @@
+// This function creates the string that is loaded into the README.md
+// The function takes data from the prompt and API
+// It creates a variable that contains a string 
+// that will be placed in the README file
 function generateMarkdown(data, repoData) {
 docText = 
 `# ${data.title}
 
-Created by ${repoData[1]}
+  * Created by ${repoData[1]}
 
-Gitub Repo Link: ${data.url}
+  * Gitub Repo Link: ${data.url}
 
 ## Description 
 
-${data.description}
+  * ${data.description}
 
 ## Table of Contents 
 
@@ -16,43 +20,48 @@ ${data.description}
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
-* [contributing](#contributing)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Question](#question)
 
 ## Installation
 
-${data.install}
+  * ${data.install}
 
 ## Usage 
 
-${data.usage}
+  * ${data.usage}
 
 ## Credits
 
-${data.credit}
+  * ${data.credit}
 
 ## License
 
-![badmath](https://img.shields.io/badge/License-${data.license}-blue)
+![license](https://img.shields.io/badge/License-${data.license}-blue)
 
 ## Contributing
 
-${data.contribute}
+  * ${data.contribute}
 
 ## Tests
 
-${data.test}
+  * ${data.test}
 
 ## Questions
-  *User GitHub email
 
-  Email: ${repoData[0]}
+  * If there are any questions, please contact via the information below:
+
+  * User GitHub email
+
+    * Email: ${repoData[0]}
   
   * User GitHub profile picture
 
-  ![weather dashboard demo](${repoData[2]})
-
+  ![github profile image](${repoData[2]})
 `;
 return docText;
 }
 
+// This exports the function
 module.exports = generateMarkdown;

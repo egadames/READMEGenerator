@@ -1,12 +1,12 @@
-# kjsdfkjasdf
+# kjlasdflkjds\
 
-Created by Kire Semada
+  * Created by Tassia Shibuya
 
-Gitub Repo Link: skadjfsfkdj
+  * Gitub Repo Link: kljasdfkj
 
 ## Description 
 
-klajsdfkljf
+  * kaljsdfkljf
 
 ## Table of Contents 
 
@@ -14,38 +14,42 @@ klajsdfkljf
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
-* [contributing](#contributing)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Question](#question)
 
 ## Installation
 
-asdkfjkljasdf
+  * klasdjfldkfj
 
 ## Usage 
 
-kljasdfkjlf
+  * akjsdfkldjsf
 
 ## Credits
 
-akldsjfklfj
+  * aklsdjfkljdf
 
 ## License
 
-![badmath](https://img.shields.io/badge/License-akljsdflkj-blue)
+![license](https://img.shields.io/badge/License-ksdfjakljakjlsdf-blue)
 
 ## Contributing
 
-akslfdklj
+  * ak;ldsjfkjlfa
 
 ## Tests
 
-kljlkj
+  * kladsj;lkjafd
 
 ## Questions
-  *User GitHub email
 
-  Email: egadames990@gmail.com
+  * If there are any questions, please contact via the information below:
+
+  * User GitHub email
+
+    * Email: tassia.shibuya@gmail.com
   
   * User GitHub profile picture
 
-  ![weather dashboard demo](https://avatars.githubusercontent.com/u/32764408?)
-
+  ![github profile image](https://avatars.githubusercontent.com/u/60808836?)
