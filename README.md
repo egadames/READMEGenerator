@@ -1,12 +1,12 @@
-# kjlasdflkjds\
+# HW 6 - Good README Generator
 
-  * Created by Tassia Shibuya
+  * Created by Kire Semada
 
-  * Gitub Repo Link: kljasdfkj
+  * Github Repo Link: https://github.com/egadames/hw7
 
 ## Description 
 
-  * kaljsdfkljf
+  * This app creates README.md files when a user gives a proper github username and answer several questions about the repo. The responses are automatically loaded intoa README and the github API is used to gather information about the user.
 
 ## Table of Contents 
 
@@ -20,27 +20,31 @@
 
 ## Installation
 
-  * klasdjfldkfj
+  * A npm i needs to be performed before running the app to install needed libraries.
 
 ## Usage 
 
-  * akjsdfkldjsf
+  * A correct username must be given and all questions must be completed throughly. An incorrect username will generate an error.
 
 ## Credits
 
-  * aklsdjfkljdf
+  * None
 
 ## License
 
-![license](https://img.shields.io/badge/License-ksdfjakljakjlsdf-blue)
+![license](https://img.shields.io/badge/License-UCB-blue)
 
 ## Contributing
 
-  * ak;ldsjfkjlfa
+  * please make a git pull request
 
 ## Tests
 
-  * kladsj;lkjafd
+  * None
+
+## Screenshots
+
+![app screenshot](./utils/screenshot.JPG)
 
 ## Questions
 
@@ -48,8 +52,8 @@
 
   * User GitHub email
 
-    * Email: tassia.shibuya@gmail.com
+    * Email: egadames990@gmail.com
   
   * User GitHub profile picture
 
-  ![github profile image](https://avatars.githubusercontent.com/u/60808836?)
+  ![github profile image](https://avatars.githubusercontent.com/u/32764408?)

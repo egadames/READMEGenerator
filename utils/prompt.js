@@ -37,17 +37,12 @@ function promptUser() {
     {
       type: "input",
       name: "credit",
-      message: "Please provide any contributors?",
+      message: "Please provide any contributors that helped create this repo?",
     },
     {
       type: "input",
       name: "license",
       message: "Please provide the license for this repository?",
-    },
-    {
-      type: "input",
-      name: "credit",
-      message: "Please provide any contributors that helped make this repo?",
     },
     {
       type: "input",
@@ -59,6 +54,11 @@ function promptUser() {
       type: "input",
       name: "test",
       message: "What command should be run to run tests for this repo?",
+    },
+    {
+      type: "input",
+      name: "screenshot",
+      message: "Please provide a link to any screenshots?",
     },
   ]);
 }

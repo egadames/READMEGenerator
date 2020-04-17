@@ -8,7 +8,7 @@ docText =
 
   * Created by ${repoData[1]}
 
-  * Gitub Repo Link: ${data.url}
+  * Github Repo Link: ${data.url}
 
 ## Description 
 
@@ -47,6 +47,10 @@ docText =
 ## Tests
 
   * ${data.test}
+
+## Screenshots
+
+![app screenshot](${data.screenshot})
 
 ## Questions
 
